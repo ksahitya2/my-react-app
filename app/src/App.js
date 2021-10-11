@@ -15,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
           Learn React with me sahitya
-=======
-          Learn React with yaswanth
->>>>>>> origin/main
         </a>
       </header>
     </div>
